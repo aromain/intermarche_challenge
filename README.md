@@ -1,6 +1,6 @@
 Winning solution of the [Intermarché Data Science forecast competition (2021)](https://challenge.datafactory-intermarche.fr/datascience/fr/challenge/1/details#tab_ranking).
 
-Running this notebook will give you a RMSLE score around ~0.5478.
+Running this notebook will give you a RMSLE score of ~0.5478XX.
 
 Tested in Python 3.7. 
 
